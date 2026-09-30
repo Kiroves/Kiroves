@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sean, a fourth-year Mathematics and Computer Science student at the University of British Columbia. 
+I'm Sean, currently working at Amazon on the Selling Partner Financial Technology team. 
 <!--
 **Kiroves/Kiroves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
